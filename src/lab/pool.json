@@ -1,0 +1,1960 @@
+{
+ "version": "d04-k5-v2",
+ "note": "Danh sách ảnh của Lab Ngày 4 (ảnh nằm sẵn trong src/lab/images). KHÔNG chứa đáp án. lab.py chia ngẫu nhiên theo MSSV.",
+ "quota": {
+  "easy": 5,
+  "occluded": 3,
+  "back": 2,
+  "small": 1,
+  "crowd": 1
+ },
+ "face_quota": {
+  "thang": 3,
+  "nghieng": 2,
+  "kinh": 1,
+  "kinh_ram": 1,
+  "toc": 1
+ },
+ "extra_quota": {
+  "persons": 3,
+  "faces": 5
+ },
+ "persons": [
+  {
+   "id": 508269,
+   "file": "000000508269.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm1.staticflickr.com/21/33635999_55da5888d7_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000508269.jpg"
+  },
+  {
+   "id": 261732,
+   "file": "000000261732.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3262/3179843291_985d31a5f6_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000261732.jpg"
+  },
+  {
+   "id": 433787,
+   "file": "000000433787.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3354/3205108806_5fe912190b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000433787.jpg"
+  },
+  {
+   "id": 343057,
+   "file": "000000343057.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4053/4482225986_c47ea57ecb_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000343057.jpg"
+  },
+  {
+   "id": 57978,
+   "file": "000000057978.jpg",
+   "group": "easy",
+   "license": "No known copyright restrictions",
+   "source": "http://farm9.staticflickr.com/8336/8422695145_0ec7bc607b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000057978.jpg"
+  },
+  {
+   "id": 211458,
+   "file": "000000211458.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm1.staticflickr.com/124/422709953_17df92b0cc_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000211458.jpg"
+  },
+  {
+   "id": 429594,
+   "file": "000000429594.jpg",
+   "group": "easy",
+   "license": "No known copyright restrictions",
+   "source": "http://farm3.staticflickr.com/2807/8777721816_b0ed73e248_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000429594.jpg"
+  },
+  {
+   "id": 349521,
+   "file": "000000349521.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm1.staticflickr.com/88/218333626_0b2b9ff33a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000349521.jpg"
+  },
+  {
+   "id": 241837,
+   "file": "000000241837.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3174/3423732543_437fe19bc0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000241837.jpg"
+  },
+  {
+   "id": 176000,
+   "file": "000000176000.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7210/6857340125_51ea3819fe_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000176000.jpg"
+  },
+  {
+   "id": 184224,
+   "file": "000000184224.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm1.staticflickr.com/36/74052852_6cb62d31a1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000184224.jpg"
+  },
+  {
+   "id": 455536,
+   "file": "000000455536.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm2.staticflickr.com/1103/525497043_749f2d171a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000455536.jpg"
+  },
+  {
+   "id": 196283,
+   "file": "000000196283.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm5.staticflickr.com/4070/4581634811_723fb0a250_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000196283.jpg"
+  },
+  {
+   "id": 225138,
+   "file": "000000225138.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8106/8509213625_4abb5549b7_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000225138.jpg"
+  },
+  {
+   "id": 19754,
+   "file": "000000019754.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2435/3708648659_f1c12ca5da_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000019754.jpg"
+  },
+  {
+   "id": 164659,
+   "file": "000000164659.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4024/5155140587_c3e47cbc20_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000164659.jpg"
+  },
+  {
+   "id": 294379,
+   "file": "000000294379.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3151/2826493074_e5392d8b1e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000294379.jpg"
+  },
+  {
+   "id": 525227,
+   "file": "000000525227.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8286/7570175502_0cb9c3e289_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000525227.jpg"
+  },
+  {
+   "id": 558066,
+   "file": "000000558066.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4072/4419014224_69ee25d9cf_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000558066.jpg"
+  },
+  {
+   "id": 445187,
+   "file": "000000445187.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4127/5412440528_194594e968_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000445187.jpg"
+  },
+  {
+   "id": 295358,
+   "file": "000000295358.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8099/8570910239_ff749e95ca_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000295358.jpg"
+  },
+  {
+   "id": 201702,
+   "file": "000000201702.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5135/5462491908_dfd6721f52_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000201702.jpg"
+  },
+  {
+   "id": 21235,
+   "file": "000000021235.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4064/4671394047_bdffa9ea1f_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000021235.jpg"
+  },
+  {
+   "id": 308257,
+   "file": "000000308257.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8502/8357285440_54faba9bc1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000308257.jpg"
+  },
+  {
+   "id": 390585,
+   "file": "000000390585.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4127/4966471428_548cb24fe2_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000390585.jpg"
+  },
+  {
+   "id": 451084,
+   "file": "000000451084.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2524/4043836250_19c91a8557_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000451084.jpg"
+  },
+  {
+   "id": 399983,
+   "file": "000000399983.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8218/8332993863_92b6772eb6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000399983.jpg"
+  },
+  {
+   "id": 564304,
+   "file": "000000564304.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm5.staticflickr.com/4021/4696790287_7e5b9b7e3c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000564304.jpg"
+  },
+  {
+   "id": 177889,
+   "file": "000000177889.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8431/7850612840_872a9a5e46_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000177889.jpg"
+  },
+  {
+   "id": 213933,
+   "file": "000000213933.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm1.staticflickr.com/175/363118331_cc155d2a94_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000213933.jpg"
+  },
+  {
+   "id": 175703,
+   "file": "000000175703.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2854/9216970059_154a1955e3_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000175703.jpg"
+  },
+  {
+   "id": 103970,
+   "file": "000000103970.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8150/7497761254_a1b89c0f20_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000103970.jpg"
+  },
+  {
+   "id": 27565,
+   "file": "000000027565.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm7.staticflickr.com/6207/6060607551_489453e896_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000027565.jpg"
+  },
+  {
+   "id": 156069,
+   "file": "000000156069.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm2.staticflickr.com/1323/1459363088_49b85da641_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000156069.jpg"
+  },
+  {
+   "id": 43968,
+   "file": "000000043968.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7053/6793038418_f463dd9440_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000043968.jpg"
+  },
+  {
+   "id": 365099,
+   "file": "000000365099.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7191/6823717990_f9b62258b9_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000365099.jpg"
+  },
+  {
+   "id": 336477,
+   "file": "000000336477.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7004/6423753713_db4880f1e8_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000336477.jpg"
+  },
+  {
+   "id": 493741,
+   "file": "000000493741.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm4.staticflickr.com/3543/3356959147_6ca3a68826_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000493741.jpg"
+  },
+  {
+   "id": 205650,
+   "file": "000000205650.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm4.staticflickr.com/3727/10085749533_b71d3e786d_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000205650.jpg"
+  },
+  {
+   "id": 314154,
+   "file": "000000314154.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm2.staticflickr.com/1156/5147250589_50f51750b7_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000314154.jpg"
+  },
+  {
+   "id": 431893,
+   "file": "000000431893.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4051/5143017705_61c3076426_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000431893.jpg"
+  },
+  {
+   "id": 240340,
+   "file": "000000240340.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8193/8404037624_ca21c43542_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000240340.jpg"
+  },
+  {
+   "id": 463932,
+   "file": "000000463932.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm7.staticflickr.com/6071/6130205921_cd35bc9a39_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000463932.jpg"
+  },
+  {
+   "id": 72098,
+   "file": "000000072098.jpg",
+   "group": "easy",
+   "license": "No known copyright restrictions",
+   "source": "http://farm9.staticflickr.com/8126/8704844882_f3b9db394e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000072098.jpg"
+  },
+  {
+   "id": 137767,
+   "file": "000000137767.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2308/4507865249_eb132bf33d_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000137767.jpg"
+  },
+  {
+   "id": 292999,
+   "file": "000000292999.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm7.staticflickr.com/6004/5916864596_1408dddc87_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000292999.jpg"
+  },
+  {
+   "id": 162046,
+   "file": "000000162046.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm2.staticflickr.com/1202/905740509_a9cb71bf1c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000162046.jpg"
+  },
+  {
+   "id": 150500,
+   "file": "000000150500.jpg",
+   "group": "easy",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm7.staticflickr.com/6187/6049737994_7e5a65c923_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000150500.jpg"
+  },
+  {
+   "id": 194027,
+   "file": "000000194027.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4101/4763826228_1be5b1cd8b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000194027.jpg"
+  },
+  {
+   "id": 294329,
+   "file": "000000294329.jpg",
+   "group": "easy",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5205/5262960665_f84ae82fd1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000294329.jpg"
+  },
+  {
+   "id": 109010,
+   "file": "000000109010.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5137/5473528814_906d23e5c8_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000109010.jpg"
+  },
+  {
+   "id": 157271,
+   "file": "000000157271.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm1.staticflickr.com/95/249743303_60eb2c70dc_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000157271.jpg"
+  },
+  {
+   "id": 311497,
+   "file": "000000311497.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm5.staticflickr.com/4086/4997578302_07a1affe45_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000311497.jpg"
+  },
+  {
+   "id": 122199,
+   "file": "000000122199.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4019/4516699760_1a0a10d7e0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000122199.jpg"
+  },
+  {
+   "id": 302102,
+   "file": "000000302102.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm4.staticflickr.com/3186/2361925292_6cca805b54_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000302102.jpg"
+  },
+  {
+   "id": 156986,
+   "file": "000000156986.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3096/3202948012_b2ed2c6c83_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000156986.jpg"
+  },
+  {
+   "id": 30960,
+   "file": "000000030960.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8471/8109654705_bf8432b71f_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000030960.jpg"
+  },
+  {
+   "id": 56651,
+   "file": "000000056651.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm4.staticflickr.com/3811/9163682078_b8c03b9115_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000056651.jpg"
+  },
+  {
+   "id": 375535,
+   "file": "000000375535.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8325/8081364427_9a127174a2_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000375535.jpg"
+  },
+  {
+   "id": 469061,
+   "file": "000000469061.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8215/8352780897_de04c8f65f_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000469061.jpg"
+  },
+  {
+   "id": 461389,
+   "file": "000000461389.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8166/7328069128_7a4c4aa5a1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000461389.jpg"
+  },
+  {
+   "id": 189365,
+   "file": "000000189365.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3793/8994760710_f6aafcd2a8_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000189365.jpg"
+  },
+  {
+   "id": 188804,
+   "file": "000000188804.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4025/4714276372_a81816410c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000188804.jpg"
+  },
+  {
+   "id": 393909,
+   "file": "000000393909.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8191/8137600617_7f609c5c58_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000393909.jpg"
+  },
+  {
+   "id": 91637,
+   "file": "000000091637.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2373/2406533648_26f849f94c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000091637.jpg"
+  },
+  {
+   "id": 571665,
+   "file": "000000571665.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3006/2346713603_307dfb4577_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000571665.jpg"
+  },
+  {
+   "id": 360811,
+   "file": "000000360811.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3744/9137086840_b37a1e1903_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000360811.jpg"
+  },
+  {
+   "id": 183176,
+   "file": "000000183176.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8028/7634744486_1791a5688f_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000183176.jpg"
+  },
+  {
+   "id": 78170,
+   "file": "000000078170.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8466/8108218074_bacf160a3c_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000078170.jpg"
+  },
+  {
+   "id": 516902,
+   "file": "000000516902.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm7.staticflickr.com/6063/6090809910_d8d834b687_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000516902.jpg"
+  },
+  {
+   "id": 179201,
+   "file": "000000179201.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2649/4225675344_a732bbd5ae_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000179201.jpg"
+  },
+  {
+   "id": 177338,
+   "file": "000000177338.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2841/10134188855_2980449d62_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000177338.jpg"
+  },
+  {
+   "id": 467300,
+   "file": "000000467300.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8009/7440866526_cdbf626476_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000467300.jpg"
+  },
+  {
+   "id": 521817,
+   "file": "000000521817.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4096/4772853595_291c00d650_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000521817.jpg"
+  },
+  {
+   "id": 580257,
+   "file": "000000580257.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm4.staticflickr.com/3138/2708653146_d096ae362e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000580257.jpg"
+  },
+  {
+   "id": 193879,
+   "file": "000000193879.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm8.staticflickr.com/7082/6979995994_b74416a2cd_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000193879.jpg"
+  },
+  {
+   "id": 220045,
+   "file": "000000220045.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm1.staticflickr.com/80/239823181_535547daa1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000220045.jpg"
+  },
+  {
+   "id": 90646,
+   "file": "000000090646.jpg",
+   "group": "occluded",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm8.staticflickr.com/7021/6421676203_8357abcb75_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000090646.jpg"
+  },
+  {
+   "id": 324953,
+   "file": "000000324953.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3732/9728405000_652a265868_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000324953.jpg"
+  },
+  {
+   "id": 147780,
+   "file": "000000147780.jpg",
+   "group": "occluded",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2857/9675708346_eb2c4c2456_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000147780.jpg"
+  },
+  {
+   "id": 480582,
+   "file": "000000480582.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5131/5581217419_e0bed425ef_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000480582.jpg"
+  },
+  {
+   "id": 307757,
+   "file": "000000307757.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm7.staticflickr.com/6137/5930073172_7accf6860a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000307757.jpg"
+  },
+  {
+   "id": 43719,
+   "file": "000000043719.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5265/5612170744_408cc3aa8a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000043719.jpg"
+  },
+  {
+   "id": 518966,
+   "file": "000000518966.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2452/3666688526_66c75383f6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000518966.jpg"
+  },
+  {
+   "id": 461002,
+   "file": "000000461002.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm2.staticflickr.com/1016/537599964_610056d33f_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000461002.jpg"
+  },
+  {
+   "id": 123544,
+   "file": "000000123544.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4141/4781930780_9366373001_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000123544.jpg"
+  },
+  {
+   "id": 391222,
+   "file": "000000391222.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8249/8640783787_a73cbe84f7_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000391222.jpg"
+  },
+  {
+   "id": 311300,
+   "file": "000000311300.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7017/6523805979_d59cecaf58_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000311300.jpg"
+  },
+  {
+   "id": 22857,
+   "file": "000000022857.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5322/9725172943_f527c9ffd4_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000022857.jpg"
+  },
+  {
+   "id": 359340,
+   "file": "000000359340.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm6.staticflickr.com/5147/5632495043_6eafc27e52_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000359340.jpg"
+  },
+  {
+   "id": 351176,
+   "file": "000000351176.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm7.staticflickr.com/6029/5865999007_0251131226_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000351176.jpg"
+  },
+  {
+   "id": 515309,
+   "file": "000000515309.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm7.staticflickr.com/6107/6876034642_50bcb4edf6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000515309.jpg"
+  },
+  {
+   "id": 54909,
+   "file": "000000054909.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8002/7386948504_a3fdc47ee8_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000054909.jpg"
+  },
+  {
+   "id": 23424,
+   "file": "000000023424.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7109/6894754306_1eea8aec29_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000023424.jpg"
+  },
+  {
+   "id": 431988,
+   "file": "000000431988.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2596/3705472255_b832c63a9c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000431988.jpg"
+  },
+  {
+   "id": 163118,
+   "file": "000000163118.jpg",
+   "group": "back",
+   "license": "CC BY 2.0",
+   "source": "http://farm7.staticflickr.com/6034/6295016809_63d19a29c6_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000163118.jpg"
+  },
+  {
+   "id": 210604,
+   "file": "000000210604.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8439/7801054996_5752b92bb0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000210604.jpg"
+  },
+  {
+   "id": 43500,
+   "file": "000000043500.jpg",
+   "group": "back",
+   "license": "No known copyright restrictions",
+   "source": "http://farm4.staticflickr.com/3127/2550265453_f535028548_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000043500.jpg"
+  },
+  {
+   "id": 69971,
+   "file": "000000069971.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm8.staticflickr.com/7093/7051891661_964fb7227b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000069971.jpg"
+  },
+  {
+   "id": 297227,
+   "file": "000000297227.jpg",
+   "group": "back",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm1.staticflickr.com/164/338936097_cfaefacf67_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000297227.jpg"
+  },
+  {
+   "id": 253584,
+   "file": "000000253584.jpg",
+   "group": "small",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm5.staticflickr.com/4018/4408436045_1f22cfdc9e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000253584.jpg"
+  },
+  {
+   "id": 438099,
+   "file": "000000438099.jpg",
+   "group": "small",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2577/3809323529_c1d4d51665_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000438099.jpg"
+  },
+  {
+   "id": 167027,
+   "file": "000000167027.jpg",
+   "group": "small",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4128/4837004436_1286ec2ca0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000167027.jpg"
+  },
+  {
+   "id": 100510,
+   "file": "000000100510.jpg",
+   "group": "small",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5547/9059818049_548550bd8f_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000100510.jpg"
+  },
+  {
+   "id": 323705,
+   "file": "000000323705.jpg",
+   "group": "small",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2865/9097400296_cdeaf1c689_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000323705.jpg"
+  },
+  {
+   "id": 269462,
+   "file": "000000269462.jpg",
+   "group": "small",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8523/8599363095_0538aa9fa6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000269462.jpg"
+  },
+  {
+   "id": 572411,
+   "file": "000000572411.jpg",
+   "group": "small",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8341/8192158693_125f83a42a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000572411.jpg"
+  },
+  {
+   "id": 7281,
+   "file": "000000007281.jpg",
+   "group": "small",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4112/5022207571_74aab92fd5_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000007281.jpg"
+  },
+  {
+   "id": 106051,
+   "file": "000000106051.jpg",
+   "group": "small",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7447/10231537916_052faf770b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000106051.jpg"
+  },
+  {
+   "id": 150192,
+   "file": "000000150192.jpg",
+   "group": "small",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3792/9267085979_975ec7ecff_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000150192.jpg"
+  },
+  {
+   "id": 12552,
+   "file": "000000012552.jpg",
+   "group": "crowd",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3624/3863835568_28190e2cf6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000012552.jpg"
+  },
+  {
+   "id": 272026,
+   "file": "000000272026.jpg",
+   "group": "crowd",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2867/9044850247_2a7c3b2762_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000272026.jpg"
+  },
+  {
+   "id": 542160,
+   "file": "000000542160.jpg",
+   "group": "crowd",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3465/3309676314_e56fa73a04_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000542160.jpg"
+  },
+  {
+   "id": 381889,
+   "file": "000000381889.jpg",
+   "group": "crowd",
+   "license": "CC BY 2.0",
+   "source": "http://farm1.staticflickr.com/173/472524094_ba447892a7_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000381889.jpg"
+  },
+  {
+   "id": 413160,
+   "file": "000000413160.jpg",
+   "group": "crowd",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8469/8386777585_0b83192dfd_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000413160.jpg"
+  },
+  {
+   "id": 332273,
+   "file": "000000332273.jpg",
+   "group": "crowd",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm4.staticflickr.com/3296/2855115634_4919922fe2_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000332273.jpg"
+  },
+  {
+   "id": 326480,
+   "file": "000000326480.jpg",
+   "group": "crowd",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2007/2231159811_6aff3782b6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000326480.jpg"
+  },
+  {
+   "id": 309169,
+   "file": "000000309169.jpg",
+   "group": "crowd",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm5.staticflickr.com/4153/5074264888_a9c7e4827c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000309169.jpg"
+  },
+  {
+   "id": 522889,
+   "file": "000000522889.jpg",
+   "group": "crowd",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm4.staticflickr.com/3259/3230642743_2c8115bae7_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000522889.jpg"
+  },
+  {
+   "id": 130816,
+   "file": "000000130816.jpg",
+   "group": "crowd",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm1.staticflickr.com/72/159813195_a931de8769_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000130816.jpg"
+  }
+ ],
+ "persons_extra": [
+  {
+   "id": 196853,
+   "file": "000000196853.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3565/3457612022_59875382aa_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000196853.jpg"
+  },
+  {
+   "id": 213506,
+   "file": "000000213506.jpg",
+   "group": "extra",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm8.staticflickr.com/7299/8846316218_7003961db6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000213506.jpg"
+  },
+  {
+   "id": 73537,
+   "file": "000000073537.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8334/8079546749_aa49d7512d_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000073537.jpg"
+  },
+  {
+   "id": 465765,
+   "file": "000000465765.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm9.staticflickr.com/8326/8407904317_fce55b1025_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000465765.jpg"
+  },
+  {
+   "id": 74156,
+   "file": "000000074156.jpg",
+   "group": "extra",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2542/4509207410_1a34034ac0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000074156.jpg"
+  },
+  {
+   "id": 65350,
+   "file": "000000065350.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4139/4869131880_ae3de10447_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000065350.jpg"
+  },
+  {
+   "id": 373426,
+   "file": "000000373426.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7405/8727105308_925ab05180_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000373426.jpg"
+  },
+  {
+   "id": 337458,
+   "file": "000000337458.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm8.staticflickr.com/7324/9547155313_b7d7330e26_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000337458.jpg"
+  },
+  {
+   "id": 323525,
+   "file": "000000323525.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm6.staticflickr.com/5055/5587460777_637d4fdd35_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000323525.jpg"
+  },
+  {
+   "id": 517702,
+   "file": "000000517702.jpg",
+   "group": "extra",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm8.staticflickr.com/7023/6395455565_f76695e543_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000517702.jpg"
+  },
+  {
+   "id": 565600,
+   "file": "000000565600.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3058/2683503091_6889d24ca1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000565600.jpg"
+  },
+  {
+   "id": 188948,
+   "file": "000000188948.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm3.staticflickr.com/2528/3833122331_af609597d6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000188948.jpg"
+  },
+  {
+   "id": 104800,
+   "file": "000000104800.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3082/2797293301_dd26fd613f_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000104800.jpg"
+  },
+  {
+   "id": 5294,
+   "file": "000000005294.jpg",
+   "group": "extra",
+   "license": "No known copyright restrictions",
+   "source": "http://farm9.staticflickr.com/8066/8240396745_e2532b2327_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000005294.jpg"
+  },
+  {
+   "id": 507223,
+   "file": "000000507223.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm2.staticflickr.com/1404/1307049889_f157382a16_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000507223.jpg"
+  },
+  {
+   "id": 254060,
+   "file": "000000254060.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm4.staticflickr.com/3121/3134326308_69430823db_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000254060.jpg"
+  },
+  {
+   "id": 357549,
+   "file": "000000357549.jpg",
+   "group": "extra",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2446/3564997547_21799839f9_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000357549.jpg"
+  },
+  {
+   "id": 161603,
+   "file": "000000161603.jpg",
+   "group": "extra",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm3.staticflickr.com/2593/3799183753_0c7a0ae64c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000161603.jpg"
+  },
+  {
+   "id": 465508,
+   "file": "000000465508.jpg",
+   "group": "extra",
+   "license": "CC BY-SA 2.0",
+   "source": "http://farm9.staticflickr.com/8423/7646065928_271ba35297_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000465508.jpg"
+  },
+  {
+   "id": 125998,
+   "file": "000000125998.jpg",
+   "group": "extra",
+   "license": "CC BY 2.0",
+   "source": "http://farm5.staticflickr.com/4044/4525057507_c7bf0cf717_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000125998.jpg"
+  }
+ ],
+ "faces": [
+  {
+   "file": "face_575921.jpg",
+   "kind": "thang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm1.staticflickr.com/167/410184063_8cf3d11758_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000575921.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 575921"
+  },
+  {
+   "file": "face_147624.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3359/4562927645_72fcc320e3_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000147624.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 147624"
+  },
+  {
+   "file": "face_125051.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm9.staticflickr.com/8065/8211238453_4ce9327a8a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000125051.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 125051"
+  },
+  {
+   "file": "face_257657.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2550/4192744139_1dedf25510_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000257657.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 257657"
+  },
+  {
+   "file": "face_122747.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm9.staticflickr.com/8349/8219458726_0e4c08cff2_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000122747.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 122747"
+  },
+  {
+   "file": "face_145751.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm6.staticflickr.com/5072/7062824745_d50cd9c1b5_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000145751.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 145751"
+  },
+  {
+   "file": "face_92028.jpg",
+   "kind": "thang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3530/3967399159_11b3b5eb06_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000092028.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 92028"
+  },
+  {
+   "file": "face_421231.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2074/2290030007_c3bd840c20_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000421231.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 421231"
+  },
+  {
+   "file": "face_155465.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3795/9321216528_dd4a9d2281_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000155465.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 155465"
+  },
+  {
+   "file": "face_559185.jpg",
+   "kind": "thang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm1.staticflickr.com/156/418093048_cfcef590a9_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000559185.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 559185"
+  },
+  {
+   "file": "face_232598.jpg",
+   "kind": "thang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm9.staticflickr.com/8322/7951597078_b5ef37baed_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000232598.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 232598"
+  },
+  {
+   "file": "face_380639.jpg",
+   "kind": "thang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3301/3425996066_1da5eee04d_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000380639.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 380639"
+  },
+  {
+   "file": "face_141135.jpg",
+   "kind": "thang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4063/4708432167_cd9192150b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000141135.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 141135"
+  },
+  {
+   "file": "face_10579.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7295/9650364660_19cf00e062_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000010579.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 10579"
+  },
+  {
+   "file": "face_469647.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm9.staticflickr.com/8146/7641892824_6433cf4e51_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000469647.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 469647"
+  },
+  {
+   "file": "face_362568.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3221/2736558918_875f87479a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000362568.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 362568"
+  },
+  {
+   "file": "face_425647.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm1.staticflickr.com/28/49659549_84f5a09e01_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000425647.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 425647"
+  },
+  {
+   "file": "face_3348.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3751/9625915435_f729b1fdef_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000003348.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 3348"
+  },
+  {
+   "file": "face_85624.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7248/7524751112_bba7e8a112_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000085624.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 85624"
+  },
+  {
+   "file": "face_359139.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2424/3654601006_a1299bb51e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000359139.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 359139"
+  },
+  {
+   "file": "face_496353.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3662/3571591295_5e394a9aef_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000496353.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 496353"
+  },
+  {
+   "file": "face_261458.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm6.staticflickr.com/5223/5738522130_8b63171397_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000261458.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 261458"
+  },
+  {
+   "file": "face_300399.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3469/3214590384_3359e99163_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000300399.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 300399"
+  },
+  {
+   "file": "face_204787.jpg",
+   "kind": "thang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7077/6944017346_575db5f9a1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000204787.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 204787"
+  },
+  {
+   "file": "face_223746.jpg",
+   "kind": "nghieng",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm2.staticflickr.com/1140/539976163_3c7f88d987_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000223746.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 223746"
+  },
+  {
+   "file": "face_505385.jpg",
+   "kind": "nghieng",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2421/3929915417_d3c8991461_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000505385.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 505385"
+  },
+  {
+   "file": "face_53580.jpg",
+   "kind": "nghieng",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3104/3469039716_a66f338bb1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000053580.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 53580"
+  },
+  {
+   "file": "face_415073.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4035/4300220973_c2e98cb597_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000415073.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 415073"
+  },
+  {
+   "file": "face_442231.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6114/6232375446_2cd731ae16_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000442231.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 442231"
+  },
+  {
+   "file": "face_105668.jpg",
+   "kind": "nghieng",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2201/2146668672_108f6883c7_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000105668.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 105668"
+  },
+  {
+   "file": "face_185015.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4137/4758542642_56caac2364_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000185015.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 185015"
+  },
+  {
+   "file": "face_449454.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7160/6774372697_d96e5500ff_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000449454.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 449454"
+  },
+  {
+   "file": "face_436791.jpg",
+   "kind": "nghieng",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm1.staticflickr.com/27/40224739_8be9791fc2_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000436791.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 436791"
+  },
+  {
+   "file": "face_264124.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3141/2731811061_5003b49ff5_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000264124.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 264124"
+  },
+  {
+   "file": "face_416730.jpg",
+   "kind": "nghieng",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6216/6274486386_9af135b47a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000416730.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 416730"
+  },
+  {
+   "file": "face_137371.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4033/4689179685_d0e112a406_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000137371.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 137371"
+  },
+  {
+   "file": "face_79591.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4063/4640360221_c4dc4dc977_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000079591.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 79591"
+  },
+  {
+   "file": "face_356144.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm6.staticflickr.com/5148/5583885783_ccc7a64226_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000356144.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 356144"
+  },
+  {
+   "file": "face_145621.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3258/3169447089_4964f21903_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000145621.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 145621"
+  },
+  {
+   "file": "face_476363.jpg",
+   "kind": "nghieng",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm1.staticflickr.com/26/52580026_3a8a2dfb59_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000476363.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 476363"
+  },
+  {
+   "file": "face_196742.jpg",
+   "kind": "kinh",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2076/2367128300_893521f2d1_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000196742.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 196742"
+  },
+  {
+   "file": "face_514826.jpg",
+   "kind": "kinh",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6171/6179115649_b110ff816c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000514826.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 514826"
+  },
+  {
+   "file": "face_186226.jpg",
+   "kind": "kinh",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6094/6377021213_5025960b7c_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000186226.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 186226"
+  },
+  {
+   "file": "face_342273.jpg",
+   "kind": "kinh",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm9.staticflickr.com/8513/8354708111_18c97843fd_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000342273.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 342273"
+  },
+  {
+   "file": "face_556064.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3163/2714710618_5358273cc0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000556064.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 556064"
+  },
+  {
+   "file": "face_380754.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6223/6305073864_a86e5f4703_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000380754.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 380754"
+  },
+  {
+   "file": "face_168953.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3138/2593463773_e7c22ae194_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000168953.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 168953"
+  },
+  {
+   "file": "face_288853.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7161/6615206865_c63784bbc6_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000288853.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 288853"
+  },
+  {
+   "file": "face_81239.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7196/6954660271_3089f5f777_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000081239.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 81239"
+  },
+  {
+   "file": "face_143959.jpg",
+   "kind": "kinh",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm1.staticflickr.com/114/283109128_932b852941_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000143959.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 143959"
+  },
+  {
+   "file": "face_345145.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4015/4639611237_aa58764480_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000345145.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 345145"
+  },
+  {
+   "file": "face_249336.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4035/5160226383_bb174b4960_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000249336.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 249336"
+  },
+  {
+   "file": "face_178208.jpg",
+   "kind": "kinh",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3359/3508635569_e96805ce24_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000178208.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 178208"
+  },
+  {
+   "file": "face_504911.jpg",
+   "kind": "kinh",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3476/3752088133_b23c372c36_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000504911.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 504911"
+  },
+  {
+   "file": "face_256814.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7091/7172085241_aed1699365_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000256814.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 256814"
+  },
+  {
+   "file": "face_99874.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm6.staticflickr.com/5223/5675208710_587c8dee0e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000099874.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 99874"
+  },
+  {
+   "file": "face_146049.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3078/2544778759_81f41977f7_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000146049.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 146049"
+  },
+  {
+   "file": "face_13874.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7199/6917600592_4c8dcf2ec8_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000013874.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 13874"
+  },
+  {
+   "file": "face_296767.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3247/2666333776_a31bb7e075_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000296767.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 296767"
+  },
+  {
+   "file": "face_309728.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm1.staticflickr.com/214/495501063_7ed6e49a5e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000309728.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 309728"
+  },
+  {
+   "file": "face_294580.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4091/4842865437_0bd77529de_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000294580.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 294580"
+  },
+  {
+   "file": "face_255797.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2453/3568474797_b4ccf30378_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000255797.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 255797"
+  },
+  {
+   "file": "face_324513.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3441/3894766324_ab5719e8a9_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000324513.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 324513"
+  },
+  {
+   "file": "face_405456.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm6.staticflickr.com/5003/5318500980_18b4dcf1fd_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000405456.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 405456"
+  },
+  {
+   "file": "face_219250.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3038/5843037130_c619a51a6a_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000219250.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 219250"
+  },
+  {
+   "file": "face_301643.jpg",
+   "kind": "kinh_ram",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4113/5034853005_805bbdf5da_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000301643.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 301643"
+  },
+  {
+   "file": "face_562485.jpg",
+   "kind": "toc",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3573/3510528701_5456afab86_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000562485.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 562485"
+  },
+  {
+   "file": "face_38721.jpg",
+   "kind": "toc",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4053/4699906178_178672bf68_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000038721.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 38721"
+  },
+  {
+   "file": "face_79367.jpg",
+   "kind": "toc",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2891/10151770163_1b4289a30f_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000079367.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 79367"
+  },
+  {
+   "file": "face_560282.jpg",
+   "kind": "toc",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm5.staticflickr.com/4107/4972905025_75b49d42ea_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000560282.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 560282"
+  },
+  {
+   "file": "face_333134.jpg",
+   "kind": "toc",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7109/7409457904_e19fa0892d_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000333134.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 333134"
+  },
+  {
+   "file": "face_490361.jpg",
+   "kind": "toc",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3644/3460102305_d39f6975e0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000490361.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 490361"
+  },
+  {
+   "file": "face_279764.jpg",
+   "kind": "toc",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7301/9487079910_eb2b1e19a9_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000279764.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 279764"
+  },
+  {
+   "file": "face_41666.jpg",
+   "kind": "toc",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2286/2127753694_985601697b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000041666.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 41666"
+  },
+  {
+   "file": "face_560526.jpg",
+   "kind": "toc",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm3.staticflickr.com/2623/3723329293_7f5e5b3854_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000560526.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 560526"
+  },
+  {
+   "file": "face_175798.jpg",
+   "kind": "toc",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7031/6668228979_d474df2629_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000175798.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 175798"
+  },
+  {
+   "file": "face_159828.jpg",
+   "kind": "toc",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6207/6046096446_287d2e89db_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000159828.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 159828"
+  },
+  {
+   "file": "face_483667.jpg",
+   "kind": "toc",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO val2017)",
+   "page": "http://farm2.staticflickr.com/1034/819096807_cd0a499d5d_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000483667.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 483667"
+  }
+ ],
+ "faces_extra": [
+  {
+   "file": "face_317330.jpg",
+   "kind": "den_trang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6014/5984897942_e52a01f39b_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000317330.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 317330"
+  },
+  {
+   "file": "face_102517.jpg",
+   "kind": "den_trang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6045/6377051009_b2f7cbbe45_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000102517.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 102517"
+  },
+  {
+   "file": "face_379585.jpg",
+   "kind": "den_trang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm8.staticflickr.com/7023/6849393965_f3221fe879_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000379585.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 379585"
+  },
+  {
+   "file": "face_300200.jpg",
+   "kind": "den_trang",
+   "license": "No known copyright restrictions",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm9.staticflickr.com/8471/8143526270_6f297990bb_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000300200.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 300200"
+  },
+  {
+   "file": "face_494518.jpg",
+   "kind": "den_trang",
+   "license": "No known copyright restrictions",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3566/3506795493_678af1f7ae_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000494518.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 494518"
+  },
+  {
+   "file": "face_45276.jpg",
+   "kind": "den_trang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3019/3032349306_f9e6fac243_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000045276.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 45276"
+  },
+  {
+   "file": "face_68290.jpg",
+   "kind": "den_trang",
+   "license": "No known copyright restrictions",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm6.staticflickr.com/5024/5621323917_04be52ccaf_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000068290.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 68290"
+  },
+  {
+   "file": "face_344941.jpg",
+   "kind": "den_trang",
+   "license": "No known copyright restrictions",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm4.staticflickr.com/3636/3507602678_5a6fd90dc0_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000344941.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 344941"
+  },
+  {
+   "file": "face_280788.jpg",
+   "kind": "den_trang",
+   "license": "No known copyright restrictions",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm6.staticflickr.com/5345/7089479197_c1a85f941e_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000280788.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 280788"
+  },
+  {
+   "file": "face_507166.jpg",
+   "kind": "den_trang",
+   "license": "CC BY-SA 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm7.staticflickr.com/6101/6318282713_b8f1b2af07_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000507166.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 507166"
+  },
+  {
+   "file": "face_296417.jpg",
+   "kind": "den_trang",
+   "license": "CC BY 2.0",
+   "author": "Flickr (COCO train2017)",
+   "page": "http://farm9.staticflickr.com/8090/8525529146_8e132e11ea_z.jpg",
+   "url": "http://images.cocodataset.org/train2017/000000296417.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 296417"
+  },
+  {
+   "file": "face_274219.jpg",
+   "kind": "den_trang",
+   "license": "No known copyright restrictions",
+   "author": "Flickr (COCO val2017)",
+   "page": "http://farm9.staticflickr.com/8471/8143525766_b2ccbd2728_z.jpg",
+   "url": "http://images.cocodataset.org/val2017/000000274219.jpg",
+   "note": "cắt quanh mặt từ ảnh COCO image_id 274219"
+  }
+ ]
+}
