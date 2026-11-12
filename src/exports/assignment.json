@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604068",
+ "ten": "VuDucToan",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "vuductoan16052005@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000211458.jpg",
+  "000000429594.jpg",
+  "000000508269.jpg",
+  "000000558066.jpg",
+  "000000030960.jpg",
+  "000000090646.jpg",
+  "000000360811.jpg",
+  "000000163118.jpg",
+  "000000480582.jpg",
+  "000000100510.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_145751.jpg",
+  "face_362568.jpg",
+  "face_356144.jpg",
+  "face_53580.jpg",
+  "face_168953.jpg",
+  "face_294580.jpg",
+  "face_175798.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 22,
+   "job_id": 13,
+   "task_name": "persons-VuDucToan"
+  },
+  "faces": {
+   "task_id": 23,
+   "job_id": 14,
+   "task_name": "faces-VuDucToan"
+  }
+ }
+}
